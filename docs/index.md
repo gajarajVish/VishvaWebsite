@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Hello!
 
-You can use the [editor on GitHub](https://github.com/gajarajVish/VishvaWebsite/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Vishva Gajaraj and I am currently a 16 year old student at East Brunswick High School.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Some things about me:
+1. I love playing the Double Bass and have been selected for the selective NJMEA Wind and Orchestral ensembles.
+2. I was a semi-finalist in the International Astronomy and Astrophysics Competition.
+3. I placed in the top 5% of competitors in the New Jersey Biology League.
 
-### Markdown
+# Email: gajarajvish@gmail.com
+# Instagram: @vishva_gajaraj
+# GitHub: @gajarajVish
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gajarajVish/VishvaWebsite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
