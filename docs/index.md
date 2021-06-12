@@ -2,6 +2,7 @@
 
 My name is Vishva Gajaraj and I am currently a 16 year old student at East Brunswick High School.
 
+## My Picture:
 <img src="pfp.jpg">
 
 Brag Sheet:
