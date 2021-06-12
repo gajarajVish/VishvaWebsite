@@ -2,6 +2,8 @@
 
 My name is Vishva Gajaraj and I am currently a 16 year old student at East Brunswick High School.
 
+<img src = "Screen Shot 2021-06-11 at 6.14.38 PM.png">
+
 Brag Sheet:
 1. Double Bass and have been selected for the selective NJMEA Wind and Orchestral ensembles.
 2. Semi-finalist in the International Astronomy and Astrophysics Competition.
